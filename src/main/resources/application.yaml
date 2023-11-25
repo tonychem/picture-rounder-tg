@@ -1,0 +1,6 @@
+telegram-bot:
+  username: ${BOT_USERNAME}
+  token: ${BOT_TOKEN}
+resources:
+  temporaryFolderInput: tmp/input/
+  temporaryFolderOutput: tmp/output/
